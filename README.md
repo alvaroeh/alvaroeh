@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvaroeh
 - 👀 I’m interested in Economics and Development
-- 🌱 I’m currently a Consultant for the International Food Policy Research Institute (IFPRI), working on applied research projects on agricultural value chains and development in Central American countries.
-- 💞️ I’m looking to collaborate on applied research or economic consultancy projects in Latin America.
+- 🌱 I’m currently a Consultant for the International Food Policy Research Institute (IFPRI), working on applied econ research projects on agricultural value chains and development in Central American countries.
+- 💞️ I’m looking to involve with other researchers to collaborate in applied research projects (e.g. RCT, program evaluations, market analysis), or also participate in economic consultancy projects in Chile and Latin America.
 - 📫 How to reach me: alvaro.espinozah@gmail.com
 
 <!---
